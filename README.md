@@ -2,7 +2,7 @@ Hi, I'm Badrinath
 
 Software Developer | MERN Stack | Backend-Focused
 
-I build secure, workflow-driven full-stack applications with strong focus on backend architecture and authentication systems.
+I build secure, workflow-driven full-stack applications with a strong focus on backend architecture and authentication systems.
 
 Experience Highlights
 
