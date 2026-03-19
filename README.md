@@ -18,13 +18,12 @@ I build secure, scalable, and workflow-driven full-stack applications with a str
 
 ## Tech Stack
 
-**Languages:** JavaScript, PHP, Python
-**Frontend:** React.js
-**Backend:** Node.js, Express.js, Core PHP
-**Database:** MongoDB, MySQL
-
-**Security:** JWT, HTTP-only Cookies, bcrypt, Middleware-based route protection
-**Concepts:** MVC Architecture, REST APIs, Database Design, Role-Based Access Control
+- **Languages:** JavaScript, PHP, Python  
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js, Core PHP  
+- **Database:** MongoDB, MySQL  
+- **Security:** JWT, HTTP-only Cookies, bcrypt, Middleware-based route protection  
+- **Concepts:** MVC Architecture, REST APIs, Database Design, Role-Based Access Control  
 
 ---
 
